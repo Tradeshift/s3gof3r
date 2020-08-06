@@ -1,3 +1,5 @@
+Note: This fork is baked into a debian package, see https://github.com/Tradeshift/tradeshift-debian-packages/blob/master/gof3r/build.sh#L5 for details. For a list of Tradeshift-specific changes, see https://github.com/Tradeshift/s3gof3r/pulls?q=is%3Apr+is%3Aclosed
+
 # s3gof3r  [![Build Status](https://travis-ci.org/rlmcpherson/s3gof3r.svg?branch=master)](https://travis-ci.org/rlmcpherson/s3gof3r) [![GoDoc](https://godoc.org/github.com/rlmcpherson/s3gof3r?status.png)](https://godoc.org/github.com/rlmcpherson/s3gof3r)
 
 s3gof3r provides fast, parallelized, pipelined streaming access to Amazon S3. It includes a command-line interface: `gof3r`.
